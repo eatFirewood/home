@@ -1,0 +1,6 @@
+(vertico-mode t)
+(setq completion-styles '(orderless))
+(global-company-mode 1)
+
+
+(provide 'pkg_config)

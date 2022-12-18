@@ -1,0 +1,2 @@
+(push "~/.emacs.d/ewt" load-path)
+(require 'ui)
